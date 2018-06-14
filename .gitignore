@@ -1,0 +1,12 @@
+
+data/
+
+\.idea/
+
+out/
+
+target/
+
+*.iml
+
+src/main/java/META-INF/
